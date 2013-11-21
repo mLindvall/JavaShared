@@ -3,7 +3,7 @@ JavaShared
 
 Shared java source files between projects.
 
-## Requirements
+## Requirements ##
 [proxy-vole](https://code.google.com/p/proxy-vole/)
 *  proxy-vole_20120727.jar
 *  js.jar
